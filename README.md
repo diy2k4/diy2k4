@@ -1,4 +1,5 @@
 # 💫 About Me:
+- Hi my name is Duy im a:
 - Software Developer tại neverlose.cc
 - Software Development Engineer tại PassatHook
 
